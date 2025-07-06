@@ -1,0 +1,10 @@
+Test Case ID,Master Option Of BufferData,Slave Option Of BufferData,ValidTC,Expected Of BufferData
+1,True,True,True,True
+2,True,False,False,NA
+3,True,NA,True,True
+4,False,True,False,NA
+5,False,False,True,False
+6,False,NA,True,False
+7,NA,True,True,True
+8,NA,False,False,NA
+9,NA,NA,True,True
